@@ -1,7 +1,7 @@
 # Stock-Price-Prediction-Sentiment-Analysis
 
-Stock Market Prediction based on Machine Learning and Sentiment Analysis of Tweets. The App forecasts stock prices of the next seven days for any given stock under NASDAQ or NSE as input by the user. Predictions are made using three algorithms: **ARIMA**, **LSTM**, **Linear Regression**. The program combines the predicted prices of the next seven days with the sentiment analysis of tweets to give recommendation whether the price is going to rise or fall. We perform sentiment analysis on publicly available
-Twitter data to find the public mood and the degree of membership into 3 classes - positive, negative or neutral
+Stock Market Prediction based on Machine Learning and Sentiment Analysis of Tweets. The App forecasts stock prices for the next seven days for any given stock under NASDAQ or NSE as input by the user. Predictions are made using three algorithms: **ARIMA**, **LSTM**, and **Linear Regression**. The program combines the predicted prices of the next seven days with the sentiment analysis of tweets to give recommendations on whether the price is going to rise or fall. I perform sentiment analysis on publicly available
+Twitter data to find the public mood and the degree of membership into 3 classes - positive, negative, or neutral
 
 ### File Structure
 - [tweets.py]() : Structure of Tweets for Sentiment Analysis
